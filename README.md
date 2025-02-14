@@ -1,1 +1,1 @@
-# My-Portfolio
+Welcome to my portfolio! I am Adinath Mohite, a dedicated Full-Stack Developer with a good knowledge in creating dynamic, scalable, and user-friendly web applications. This portfolio showcases some of the projects I've worked on, demonstrating my skills in front-end and back-end technologies.
